@@ -10,7 +10,6 @@ Code modified by Kelly Kim
 
 #include <SPI.h>
 #include <TinyScreen.h>  //interfacing OLED screen
-#include <RTCZero.h>
 #include <Wire.h>
 #include <Wireling.h>
 #include <MAX30101.h>
