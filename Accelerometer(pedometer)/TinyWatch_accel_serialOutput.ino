@@ -33,7 +33,7 @@ void setup() {
   /* Set up the BMA250 acccelerometer sensor */
   accel_sensor.begin(BMA250_range_2g, BMA250_update_time_64ms); 
 
-  delay(200);
+  delay(20);
 }
 
 void loop() {
