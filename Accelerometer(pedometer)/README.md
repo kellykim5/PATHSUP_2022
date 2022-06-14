@@ -6,12 +6,12 @@
 3. Move the folders to "Documents > Arduino > libraries"
 
 ## Arduino Code
-### [Read and display values from the accelerometer onto serial monitor]
+### [Step 1. Read and display values from the accelerometer onto serial monitor]
 1. Click on the **TinyWatch_accel_serialOutput.ino** file
 2. Copy and paste the code to a new file on the Arduino IDE (File > New)
 3. Run the code
 
-### [Make a pedometer using the accelerometer]
+### [Step 2. Make a pedometer using the accelerometer]
 1. Click on the **TinyWatch_accel_pedometer.ino** file
 2. Copy and paste the code to a new file on the Arduino IDE (File > New)
 3. Run the code
