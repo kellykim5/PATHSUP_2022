@@ -11,7 +11,6 @@ Code modified by Kelly Kim
 /* include the necessary libraries */
 #include <SPI.h>
 #include <TinyScreen.h>  
-#include <RTCZero.h>
 #include <Wire.h>
 #include <Wireling.h>
 #include <MAX30101.h>
