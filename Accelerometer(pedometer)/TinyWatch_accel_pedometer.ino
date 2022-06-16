@@ -15,8 +15,8 @@ BMA250 accel_sensor;
 
 /* variables for counting steps: used in updatePedometer() function */
 int iter = 0; // this serves as a counter
-int sample_interval = 50; //minimum interval a step can occur
-                          //can change it but 50 seemed good experimentally
+int sample_interval = 40; //minimum interval a step can occur
+                          //can change it but 40 seemed good experimentally
 int sampleOld = 0; //saves the accelerometer info from previous loop
 bool stepAlert = true; //flag to see if step occured. again, only one step can happen in 50 cycles.
 int totalSteps = 0; //total number of steps
@@ -104,7 +104,7 @@ void updatePedometer() {
   int sqrt_sum = sqrt(sum);
 
   /* threshold for step counting. can change values */
-  int threshold = 150; 
+  int threshold = 75; 
   
   float diff = abs(sqrt_sum - sampleOld);
 
