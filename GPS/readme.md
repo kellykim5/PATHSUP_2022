@@ -7,12 +7,12 @@
 
 ## Arduino Code
 
-### [Step 1-1. Using the actual GPS]
-1. Click on the **TinyWatch_GPS_withoutSD.ino** file
-2. Copy and paste the code to a new file on the Arduino IDE (File > New)
-3. Run the code
+### [Step 1-1. Using the actual GPS (does not save to SD card)]
+1. Click on the **TinyWatch_GPS_withoutSD.zip** file
+2. Download zip file
+3. Unzip (extract files) - no need to move them anywhere.
 
 ### [Step 1-2. Using the actual GPS and saving it to SD card]
-1. Click on the **TinyWatch_GPS_withSD.ino** file
-2. Copy and paste the code to a new file on the Arduino IDE (File > New)
-3. Run the code
+1. Click on the **TinyWatch_GPS_withSD.zip** file
+2. Download zip file
+3. Unzip (extract files) - no need to move them anywhere.
