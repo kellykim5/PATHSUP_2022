@@ -16,7 +16,7 @@
 2. Copy and paste the code to a new file on the Arduino IDE (File > New)
 3. Run the code
 
-### [Step 2-1. Using the actual GPS and saving it to SD card]
+### [Step 2-2. Using the actual GPS and saving it to SD card]
 1. Click on the **TinyWatch_GPS_withSD.ino** file
 2. Copy and paste the code to a new file on the Arduino IDE (File > New)
 3. Run the code
