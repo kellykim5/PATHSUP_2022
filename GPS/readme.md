@@ -9,6 +9,7 @@
 1. Download **GPS.TXT** 
 2. Go to https://rl.se/gprmc 
 3. Copy and paste a line from the text file to the website.
+   (The line will start with a $ sign)
 4. Click "Decode"
 5. See what results you get!
 
