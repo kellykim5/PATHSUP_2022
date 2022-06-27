@@ -10,5 +10,5 @@
 2. Unzip and open **TinyWatch_BluetoothNotification.ino**" in Arduino IDE.
 
 ## Reference
-https://learn.tinycircuits.com/Communication/Bluetooth-Low-Energy_TinyShield_Tutorial/
+https://learn.tinycircuits.com/Communication/Bluetooth-Low-Energy_TinyShield_Tutorial/  
 https://learn.tinycircuits.com/Kits/TinyScreen-Smart-Watch-Kit_Tutorial/
