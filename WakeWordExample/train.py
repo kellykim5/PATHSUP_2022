@@ -17,6 +17,8 @@ samples))
     return dataset, classmap
 
 from sklearn.ensemble import RandomForestClassifier
+import sys
+!{sys.executable} -m pip install micromlgen
 from micromlgen import port
 
 # put your samples in the dataset folder
@@ -28,3 +30,5 @@ classifier = RandomForestClassifier(n_estimators=30, max_depth=10).fit(X,
 y)
 c_code = port(classifier, classmap=classmap)
 print(c_code)
+with open('model.h', 'w') as f:
+    f.write(c_code)
