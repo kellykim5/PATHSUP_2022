@@ -1,4 +1,5 @@
-# PATHS-UP Young Scholars Digital Health 2022 @ Rice University
+# PATHS-UP Young Scholars Digital Health 2022  
+@ Rice University
 
 ## **Week 1**
 - Pulse oximeter  
