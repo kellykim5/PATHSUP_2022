@@ -1,5 +1,4 @@
 # PATHS-UP Young Scholars Digital Health 2022
-@ Rice University
 
 ## **Week 1**
 - Pulse oximeter  
@@ -14,6 +13,6 @@
 - Speaker and microphone
 
 ##  
-### Rice University PATHS-UP  
+### Rice University PATHS-UP 2022
 Authors: Kelly Kim, Dr. Joseph Young  
 Reference: http://tinycircuits.com
