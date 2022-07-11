@@ -1,7 +1,7 @@
 # PATHS-UP Young Scholars Digital Health 2022
 
 ## Maker 101
-[This](https://github.com/kellykim5/PATHSUP_2022/tree/main/Maker101Sketches) contains codes for Maker 101.
+- [This](https://github.com/kellykim5/PATHSUP_2022/tree/main/Maker101Sketches) contains codes for Maker 101.
 
 ## **Week 1**
 - Pulse oximeter [code](https://github.com/kellykim5/PATHSUP_2022/tree/main/PulseOx)
