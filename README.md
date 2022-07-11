@@ -1,6 +1,6 @@
 # PATHS-UP Young Scholars Digital Health 2022 @ Rice University
 
-##**Week 1**
+## **Week 1**
 - Pulse oximeter  
 - Accelerometer (pedometer)  
 
@@ -12,6 +12,7 @@
 - Machine learning (ML)
 - Speaker and microphone
 
-### Rice University PATHS-UP 
-### Authors: Kelly Kim, Dr. Joseph Young
-### Reference: http://tinycircuits.com
+
+### Rice University PATHS-UP  
+Authors: Kelly Kim, Dr. Joseph Young  
+Reference: http://tinycircuits.com
