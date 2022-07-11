@@ -13,6 +13,7 @@
 
 ## **Week 3**
 - Machine learning (ML) + microphone [code](https://github.com/kellykim5/PATHSUP_2022/tree/main/WakeWordExample)
+- Final project: combine everything together!
 
 ##  
 ### Rice University PATHS-UP 2022
