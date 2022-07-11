@@ -12,7 +12,7 @@
 - Machine learning (ML)
 - Speaker and microphone
 
-
+##  
 ### Rice University PATHS-UP  
 Authors: Kelly Kim, Dr. Joseph Young  
 Reference: http://tinycircuits.com
