@@ -3,6 +3,9 @@
 ## Maker 101
 - [This](https://github.com/kellykim5/PATHSUP_2022/tree/main/Maker101Sketches) contains codes for Maker 101.
 
+## Zoom
+https://www.google.com/url?q=https://riceuniversity.zoom.us/j/92592308274?pwd%3DeW8vN0N5QWdGZTZtaW4zOWRLdHRSQT09&sa=D&source=calendar&ust=1658158530853310&usg=AOvVaw0Rg1FJjxapvdunSvW3UoQT
+
 ## **Week 1**
 - Pulse oximeter [code](https://github.com/kellykim5/PATHSUP_2022/tree/main/PulseOx)
 - Accelerometer (pedometer) [code](https://github.com/kellykim5/PATHSUP_2022/tree/main/Accelerometer(pedometer))  
