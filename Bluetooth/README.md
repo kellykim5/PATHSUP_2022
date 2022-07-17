@@ -6,8 +6,12 @@
 
 ## Arduino Code
 ### Get notifications from your iPhone (iOS)
-1. Click on **TinyWatch_BluetoothNotification.zip** and download it.
-2. Unzip and open **TinyWatch_BluetoothNotification.ino**" in Arduino IDE.
+1. Click on **TinyWatch_BluetoothNotification_iPhone.zip** and download it.
+2. Unzip and open **TinyWatch_BluetoothNotification_Android.ino**" in Arduino IDE.
+
+### Get notifications from your Android phone
+1. Click on **TinyWatch_BluetoothNotification_Android.zip** and download it.
+2. Unzip and open **TinyWatch_BluetoothNotification_Android.ino**" in Arduino IDE.
 
 ## Reference
 https://learn.tinycircuits.com/Communication/Bluetooth-Low-Energy_TinyShield_Tutorial/  
