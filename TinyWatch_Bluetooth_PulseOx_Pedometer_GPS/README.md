@@ -5,6 +5,8 @@ You will need all the libraries you used for the past 3 weeks.
 
 
 ## Arduino Code
+* Note: connecting GPS may interfere with pulse oximeter 
+
 1. Download the .zip file
 2. Unzip at your location of preference
 3. Open **TinyWatch_Bluetooth_PulseOx_Pedometer_GPS.ino** in Arduino IDE
