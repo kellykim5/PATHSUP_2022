@@ -1,8 +1,9 @@
 # This folder contains the code and libraries needed for operating Tinycircuits bluetooth and Tinyscreen+. 
 
 ## Libraries
-1. Click on **STBLE.zip** and download it. 
-2. Unzip and move the folder to "**Documents > Arduino > libraries**"
+1. Use the Arduino IDE library manager to see for and install RTCZero
+2. Click on **STBLE.zip** and download it. 
+3. Unzip and move the folder to "**Documents > Arduino > libraries**"
 
 ## Arduino Code
 ### Get notifications from your iPhone (iOS)
