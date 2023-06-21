@@ -12,7 +12,7 @@
 
 ### Get notifications from your Android phone
 1. Click on **TinyWatch_BluetoothNotification_Android.zip** and download it.
-2. Unzip and open **TinyWatch_BluetoothNotification_Android.ino**"= in Arduino IDE.
+2. Unzip and open **TinyWatch_BluetoothNotification_Android.ino** in Arduino IDE.
 
 ## Reference
 https://learn.tinycircuits.com/Communication/Bluetooth-Low-Energy_TinyShield_Tutorial/  
