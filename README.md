@@ -1,4 +1,4 @@
-# PATHS-UP Young Scholars Digital Health 2022
+# PATHS-UP Young Scholars Digital Health
 
 ## Maker 101
 - [This](https://github.com/kellykim5/PATHSUP_2022/tree/main/Maker101Sketches) contains codes for Maker 101.
@@ -19,6 +19,6 @@ http://files.tinycircuits.com/ArduinoBoards/package_tinycircuits_index.json
 - Final project: combine everything together!
 
 ##  
-### Rice University PATHS-UP 2022
+### Rice University PATHS-UP
 Authors: Kelly Kim, Dr. Joseph Young  
 Reference: http://tinycircuits.com
